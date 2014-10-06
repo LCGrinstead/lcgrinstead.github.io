@@ -1,0 +1,25 @@
+body {
+	background-image: url(images/stripes.png), url(images/background.jpg);
+	background-repeat: repeat-x;
+	margin-right: 0em;
+	margin-left: 5em;
+	margin-top: 15em;
+	margin-bottom: 15em;
+	
+
+}
+hr {
+	margin-top: 2em;
+	margin-right:0em;
+	margin-left: 0em;
+	width: 35px;
+	border-color: #fd6e6e;
+}
+
+p{
+	font-family: Lato, Arial,'Helvetica Neue';
+	font-size: 28px;
+	font-weight: 100;
+	color: #fefefe ;
+	line-height: 1em;
+}
