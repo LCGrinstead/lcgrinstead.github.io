@@ -1,27 +1,30 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
 body {
 	background-image: url(images/egg.jpg);
 	background-repeat: no-repeat;
 }
-
 nav {
 	font: normal 1em 'Raleway', cursive;
 	text-align: left;
 }
+.button {
+	font-size: 20em;
+}
 h1 {
-	font: normal 10em 'Raleway', sans-serif;
+	font: 100 10em 'Raleway', sans-serif;
+	padding-top: 0px;
 	text-transform: uppercase;
 	text-align: right;
 	letter-spacing: 7px;
-	
+	line-height: 90%;
 }
-
 h2{
 	font: 2em 'Fredoka One', serif;
+	padding: 1.5em 0em 1.5em 0em;
 	text-align: right;
-
 }
 p{
-
-	font-family: 100 1.5em 'Raleyway', sans-serif;
+	font: 100 1.5em 'Raleyway', sans-serif;
 	text-align: right
 }
