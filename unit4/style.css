@@ -1,16 +1,14 @@
 body {
 	background-image: url(images/egg.jpg);
+	background-repeat: no-repeat;
 }
+
 nav {
-	font-family: 'Poiret One', cursive;
-	font-size: 25px:;
-	font-weight: normal;
+	font: normal 1em 'Raleway', cursive;
 	text-align: left;
 }
 h1 {
-	font-family: 'Raleway', sans-serif;
-	font-size: 150px;
-	font-weight: normal;
+	font: normal 10em 'Raleway', sans-serif;
 	text-transform: uppercase;
 	text-align: right;
 	letter-spacing: 7px;
@@ -18,14 +16,12 @@ h1 {
 }
 
 h2{
-	font-family: 'Fredoka One';
-	font-size: 25px;
+	font: 2em 'Fredoka One', serif;
 	text-align: right;
 
 }
 p{
-	float: right;
-	font-family: 'Raleyway', sans-serif;
-	font-weight: 100;
+
+	font-family: 100 1.5em 'Raleyway', sans-serif;
 	text-align: right
 }
