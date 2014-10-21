@@ -9,12 +9,17 @@ body {
 	border: 0 none;
 	background-color:#fff;
 	cursor: pointer;
+	float:left;
 	font-size: 1.25em;
 }
 .buttons:hover {
 	color: #000;
 }
-main { padding: 0 40px 0 0; }
+main { padding: 40px 40px 0 0; }
+section {
+	float:right;
+	width:510px;
+}
 h1 {
 	font: 100 10em 'Raleway', sans-serif;
 	padding-top: 0px;
