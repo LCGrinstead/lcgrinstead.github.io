@@ -1,0 +1,68 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background-image: url(images/coverphoto.JPG);
+	background-repeat: no-repeat;
+	background-size:  100%;
+	clear: both;
+}
+
+nav {
+	height: 70px;
+	color: #0D4276;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+	background: rgba(255, 255, 255, 0.6)
+}
+nav a {
+	color: #0E83F5;
+  	text-decoration: inherit;
+  	
+}
+.logo {
+	width: 70px;
+	margin: 10px;
+}
+.DONATE {
+	background-color: #A90B01;
+	color: #ffffff;
+	font-size: 1.5em;
+	margin: 10px 10px 0px 10px;
+	position: absolute;
+	padding: 10px;
+  	text-decoration: inherit;
+  	width: 120px;
+}
+.menu {
+	border: none;
+	color: #ffffff;
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	margin: 20px 20px 0px 20px;
+}
+.menu a {
+	padding: 5px;
+}
+.menu a:hover {
+	color: #A90B01;
+}
+figure {
+
+	width: 700px;
+	height:400px;
+	background: rgba(14, 131, 245, 0.8);
+	margin-top: 40px;
+	color: red;
+	float: right;
+
+}
+.logo-image {
+	width: 75%;
+	float: right;
+
+
+
+
+
