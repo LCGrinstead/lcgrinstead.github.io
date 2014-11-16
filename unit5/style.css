@@ -19,6 +19,7 @@ header a {
   	text-decoration: inherit; 	
   	margin-top: 10px;
 }
+<<<<<<< HEAD
 nav {
 	color: #ffffff;
 	font-family: 'Open Sans', sans-serif;
@@ -47,10 +48,31 @@ figcaption {
 footer {
 	color: #0E83F5;
 	text-align: center;
+=======
+figure {
+	width: 700px;
+	height:300px;
+	background: rgba(14, 131, 245, 0.8);
+	margin-top: 40px;
+	color: #ffffff;
+	float: right;
+}
+nav {
+	color: #ffffff;
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	margin: 20px 20px 0px 20px;
+}
+nav a {
+	padding: 5px;
+>>>>>>> FETCH_HEAD
 }
 nav a:hover {
 	color: #A90B01;
 }
+<<<<<<< HEAD
 .logo-button {
 	height: 50px;
 	margin: 2px 0 2px 15px;
@@ -81,10 +103,34 @@ nav a:hover {
 	background-repeat: no-repeat;
 	background-size: 100% 800px;
 }
+=======
+.logo {
+	height: 60px;
+	width: 70px;
+	margin: 7px;
+}
+.DONATE {
+	background-color: #A90B01;
+	color: #ffffff;
+	font-size: 30px;
+	margin: 15px;
+	position: absolute;
+  	text-decoration: inherit;
+  	width: 100px;
+}
+.DONATE a {
+	padding: 20px;
+}
+.DONATE:hover {
+	background-color: #A4B603;
+	color: #0E83F5;
+	}
+>>>>>>> FETCH_HEAD
 .logo-image {
 	width: 470px;
 	height: 300px;
 	float: left;
+<<<<<<< HEAD
 	padding:40px 25px 40px 15px;
 }
 .learn-more {
@@ -106,4 +152,10 @@ nav a:hover {
    height: 0; 
    clear: both;
 }
+=======
+}
+
+
+
+>>>>>>> FETCH_HEAD
 
