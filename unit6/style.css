@@ -67,6 +67,9 @@ nav a:hover {
 .RCYhome-button:hover {
 	color:#A90B01;
 }
+header a:hover {
+	color:#A90B01;
+}
 .donate {
 	background-color: #A90B01;
 	color: #ffffff;
@@ -82,7 +85,7 @@ nav a:hover {
 .bx-wrapper {
 	background-image: url(images/coverphoto.JPG);
 	background-repeat: no-repeat;
-	background-size: 100% 800px;
+	background-size: cover;
 }
 .logo-image {
 	width: 470px;
